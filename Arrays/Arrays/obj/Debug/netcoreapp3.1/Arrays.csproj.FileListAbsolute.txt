@@ -12,3 +12,17 @@ C:\Users\jonah\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
 C:\Users\jonah\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
 C:\Users\jonah\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
 C:\Users\jonah\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache
+C:\Users\jonah\source\repos\CSharp_Projects\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\jonah\source\repos\CSharp_Projects\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\jonah\source\repos\CSharp_Projects\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\jonah\source\repos\CSharp_Projects\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\jonah\source\repos\CSharp_Projects\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\jonah\source\repos\CSharp_Projects\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\jonah\source\repos\CSharp_Projects\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.AssemblyReference.cache
+C:\Users\jonah\source\repos\CSharp_Projects\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonah\source\repos\CSharp_Projects\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\jonah\source\repos\CSharp_Projects\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\jonah\source\repos\CSharp_Projects\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\jonah\source\repos\CSharp_Projects\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\jonah\source\repos\CSharp_Projects\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\jonah\source\repos\CSharp_Projects\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

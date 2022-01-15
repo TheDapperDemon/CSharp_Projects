@@ -6,10 +6,14 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
-            string[] stringArray = { "Your Name is: ", "Your Ageis: ", "Your Height is: ", "Your Favorite Color is: "};
+            string[] stringArray = { "Your Name is: ", "Your Age is: ", "Your Height is: "};
             Console.WriteLine("What is your Name?");
             string answer = Console.ReadLine();
-            Console.WriteLine(stringArray [1], answer);
+            for (int i = 0; i < stringArray.Length; i++)
+            {
+                stringArray[i] += answer;
+                Console.WriteLine(stringArray[i]);
+            } 
             Console.ReadLine();
         }
     }
