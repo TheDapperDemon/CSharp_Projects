@@ -8,14 +8,21 @@ namespace ConsoleAppPt3
         {
             int A = 20;
             int B = 10;
+            int C = 20;
 
-            while (A<=B)
+            while (A>B)
             {
                 Console.WriteLine("A wins!");
-                Console.ReadLine();
                 B++;
             }
-          
+            Console.ReadLine();
+            
+            if (C>=A)
+            {
+                Console.WriteLine("C has caught  up!");
+            }
+            Console.ReadLine();
+
         }
     }
 }
