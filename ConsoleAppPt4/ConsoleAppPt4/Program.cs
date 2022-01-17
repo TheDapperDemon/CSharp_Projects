@@ -15,6 +15,7 @@ namespace ConsoleAppPt4
                 if (colors [i] == answer )
                 {
                     Console.WriteLine(answer + " is on List!");
+                    break;
                 }
                 else
                 {
