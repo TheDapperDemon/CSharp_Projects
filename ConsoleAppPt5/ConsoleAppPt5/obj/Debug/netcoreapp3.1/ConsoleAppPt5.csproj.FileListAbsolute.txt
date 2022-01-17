@@ -1,0 +1,14 @@
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt5\ConsoleAppPt5\obj\Debug\netcoreapp3.1\ConsoleAppPt5.csproj.AssemblyReference.cache
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt5\ConsoleAppPt5\obj\Debug\netcoreapp3.1\ConsoleAppPt5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt5\ConsoleAppPt5\obj\Debug\netcoreapp3.1\ConsoleAppPt5.AssemblyInfoInputs.cache
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt5\ConsoleAppPt5\obj\Debug\netcoreapp3.1\ConsoleAppPt5.AssemblyInfo.cs
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt5\ConsoleAppPt5\obj\Debug\netcoreapp3.1\ConsoleAppPt5.csproj.CoreCompileInputs.cache
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt5\ConsoleAppPt5\bin\Debug\netcoreapp3.1\ConsoleAppPt5.exe
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt5\ConsoleAppPt5\bin\Debug\netcoreapp3.1\ConsoleAppPt5.deps.json
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt5\ConsoleAppPt5\bin\Debug\netcoreapp3.1\ConsoleAppPt5.runtimeconfig.json
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt5\ConsoleAppPt5\bin\Debug\netcoreapp3.1\ConsoleAppPt5.runtimeconfig.dev.json
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt5\ConsoleAppPt5\bin\Debug\netcoreapp3.1\ConsoleAppPt5.dll
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt5\ConsoleAppPt5\bin\Debug\netcoreapp3.1\ConsoleAppPt5.pdb
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt5\ConsoleAppPt5\obj\Debug\netcoreapp3.1\ConsoleAppPt5.dll
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt5\ConsoleAppPt5\obj\Debug\netcoreapp3.1\ConsoleAppPt5.pdb
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt5\ConsoleAppPt5\obj\Debug\netcoreapp3.1\ConsoleAppPt5.genruntimeconfig.cache
