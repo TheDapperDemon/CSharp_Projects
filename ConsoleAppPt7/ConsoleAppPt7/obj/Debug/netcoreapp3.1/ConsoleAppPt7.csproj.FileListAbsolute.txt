@@ -1,0 +1,14 @@
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt7\ConsoleAppPt7\bin\Debug\netcoreapp3.1\ConsoleAppPt7.exe
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt7\ConsoleAppPt7\bin\Debug\netcoreapp3.1\ConsoleAppPt7.deps.json
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt7\ConsoleAppPt7\bin\Debug\netcoreapp3.1\ConsoleAppPt7.runtimeconfig.json
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt7\ConsoleAppPt7\bin\Debug\netcoreapp3.1\ConsoleAppPt7.runtimeconfig.dev.json
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt7\ConsoleAppPt7\bin\Debug\netcoreapp3.1\ConsoleAppPt7.dll
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt7\ConsoleAppPt7\bin\Debug\netcoreapp3.1\ConsoleAppPt7.pdb
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt7\ConsoleAppPt7\obj\Debug\netcoreapp3.1\ConsoleAppPt7.csproj.AssemblyReference.cache
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt7\ConsoleAppPt7\obj\Debug\netcoreapp3.1\ConsoleAppPt7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt7\ConsoleAppPt7\obj\Debug\netcoreapp3.1\ConsoleAppPt7.AssemblyInfoInputs.cache
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt7\ConsoleAppPt7\obj\Debug\netcoreapp3.1\ConsoleAppPt7.AssemblyInfo.cs
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt7\ConsoleAppPt7\obj\Debug\netcoreapp3.1\ConsoleAppPt7.csproj.CoreCompileInputs.cache
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt7\ConsoleAppPt7\obj\Debug\netcoreapp3.1\ConsoleAppPt7.dll
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt7\ConsoleAppPt7\obj\Debug\netcoreapp3.1\ConsoleAppPt7.pdb
+C:\Users\jonah\source\repos\CSharp_Projects\ConsoleAppPt7\ConsoleAppPt7\obj\Debug\netcoreapp3.1\ConsoleAppPt7.genruntimeconfig.cache
