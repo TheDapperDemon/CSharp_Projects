@@ -3,38 +3,18 @@ using System.Collections.Generic;
 
 namespace BlackJack
 {
-    class Card
+    class Program
     {
-        public class Deck
+        static void Main(string[] args)
         {
-            public Deck()
+            Deck deck = new Deck();
+
+            foreach (Card card in deck.Cards)
             {
-                //Cards = new List<Card>();
-                //Card cardOne = new Card();
-                //cardOne.Face = "Two";
-                //cardOne.Suit = "Hearts";
-                //Cards.Add(cardOne);
-
-                Cards = new List<Cards>();
-                List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
-                List<string> Faces = new List<string>()
-                {
-                    "Two", "Three", "Four", "Five", "Six", "Seven",
-                    "Eight", "Nine", "Ten", "Jack", "King", "Queen", "Ace"
-                };
-
-                foreach (string in Faces)
-                {
-                    foreach (string in Suits)
-                    {
-                        Card card = new Card();
-                        card.Suit = suit;
-                        card.Face = face;
-                        Cards.Add(card);
-                    }
-                }
+                Console.WriteLine(card.Face + " of " + card.Suit);
             }
-            public List<Card> Cards { get; set; }
+            Console.WriteLine(deck.Cards.Count);
+            Console.ReadLine();
         }
     }
 }
