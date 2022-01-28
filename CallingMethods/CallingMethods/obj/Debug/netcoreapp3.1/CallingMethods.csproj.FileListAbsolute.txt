@@ -1,0 +1,14 @@
+C:\Users\jonah\source\repos\CSharp_Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.csproj.AssemblyReference.cache
+C:\Users\jonah\source\repos\CSharp_Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonah\source\repos\CSharp_Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.AssemblyInfoInputs.cache
+C:\Users\jonah\source\repos\CSharp_Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.AssemblyInfo.cs
+C:\Users\jonah\source\repos\CSharp_Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.csproj.CoreCompileInputs.cache
+C:\Users\jonah\source\repos\CSharp_Projects\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.exe
+C:\Users\jonah\source\repos\CSharp_Projects\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.deps.json
+C:\Users\jonah\source\repos\CSharp_Projects\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.runtimeconfig.json
+C:\Users\jonah\source\repos\CSharp_Projects\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.runtimeconfig.dev.json
+C:\Users\jonah\source\repos\CSharp_Projects\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.dll
+C:\Users\jonah\source\repos\CSharp_Projects\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.pdb
+C:\Users\jonah\source\repos\CSharp_Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.dll
+C:\Users\jonah\source\repos\CSharp_Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.pdb
+C:\Users\jonah\source\repos\CSharp_Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.genruntimeconfig.cache

@@ -6,19 +6,19 @@ namespace CallingMethods
 {
     public class Class1
     {
-        public static int Method1(int A)
+        public static void Method1(int A)
         {
           
-            Console.WriteLine("Int A " + 10);
+            Console.WriteLine("Your answer plus ten is " +( A + 10));
 
         }
-        static void Method2()
+        public static void Method2(int A)
         {
-
+            Console.WriteLine("Your answer times ten is " + (A * 10));
         }
-        static void Method3()
+        public static void Method3(int A)
         {
-
+            Console.WriteLine("Your answer divided ten is " + (A / 10));
         }
 
     }

@@ -4,9 +4,13 @@ namespace CallingMethods
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Method1(20); 
+            Console.WriteLine("Please enter a number to do the math operations on");
+            int answer = Convert.ToInt32(Console.ReadLine());
+            Class1.Method1(answer);
+            Class1.Method2(answer);
+            Class1.Method3(answer);
         }
     }
 }
