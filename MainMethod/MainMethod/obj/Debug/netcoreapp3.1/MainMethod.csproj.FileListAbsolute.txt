@@ -1,0 +1,14 @@
+C:\Users\jonah\source\repos\CSharp_Projects\MainMethod\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.exe
+C:\Users\jonah\source\repos\CSharp_Projects\MainMethod\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.deps.json
+C:\Users\jonah\source\repos\CSharp_Projects\MainMethod\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.runtimeconfig.json
+C:\Users\jonah\source\repos\CSharp_Projects\MainMethod\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.runtimeconfig.dev.json
+C:\Users\jonah\source\repos\CSharp_Projects\MainMethod\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.dll
+C:\Users\jonah\source\repos\CSharp_Projects\MainMethod\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.pdb
+C:\Users\jonah\source\repos\CSharp_Projects\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.csproj.AssemblyReference.cache
+C:\Users\jonah\source\repos\CSharp_Projects\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonah\source\repos\CSharp_Projects\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.AssemblyInfoInputs.cache
+C:\Users\jonah\source\repos\CSharp_Projects\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.AssemblyInfo.cs
+C:\Users\jonah\source\repos\CSharp_Projects\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.csproj.CoreCompileInputs.cache
+C:\Users\jonah\source\repos\CSharp_Projects\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.dll
+C:\Users\jonah\source\repos\CSharp_Projects\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.pdb
+C:\Users\jonah\source\repos\CSharp_Projects\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.genruntimeconfig.cache
