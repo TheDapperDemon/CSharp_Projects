@@ -2,12 +2,15 @@
 
 namespace MainMethod
 {
-    public class Program
+     class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            Class1.Method1(Convert.ToInt32(Console.ReadLine()));
-
+            Class1 Purple = new Class1();
+            Console.WriteLine(Purple.Method1(10));
+            Console.WriteLine(Purple.Method1(.5m));
+            Console.WriteLine(Purple.Method1("5"));
+            Console.ReadLine();
         }
         
     }

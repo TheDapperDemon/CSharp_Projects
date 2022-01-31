@@ -6,10 +6,19 @@ namespace MainMethod
 {
     public class Class1
     {
-        public static int Method1(int A)
+        public int Method1(int A)
         {
-            int C = A + 10;
-            return C;
+            return A + 7;
+        }
+        public int Method1(decimal A)
+        {
+            int B = Convert.ToInt32(A);
+            return B + 8;
+        }
+        public int Method1(string A)
+        {
+            int C = Convert.ToInt32(A);
+            return C + 10;
         }
     }
 }
