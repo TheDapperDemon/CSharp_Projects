@@ -6,7 +6,10 @@ namespace DoubleMethod
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
+            Class1 Pinaple = new Class1();
+            Console.WriteLine(Pinaple.Method1(10));
+            Console.WriteLine(Pinaple.Method2(.5m));
+            Console.ReadLine();
         }
     }
 }
