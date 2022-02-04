@@ -6,14 +6,11 @@ namespace DoubleMethod
 {
     public class Class1
     {
-        public int Method1(int A)
+        public int Method1(int answer1, int answer2 = 18)
         {
-            return A + 7;
+            int Operation = answer1 + answer2;
+                return Operation;
         }
-        public int Method2(decimal A)
-        {
-            int B = Convert.ToInt32(A);
-            return B + 8;
-        }
+        
     }
 }

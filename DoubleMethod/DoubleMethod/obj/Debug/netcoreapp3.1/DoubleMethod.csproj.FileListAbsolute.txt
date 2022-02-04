@@ -1,0 +1,14 @@
+C:\Users\jonah\source\repos\CSharp_Projects\DoubleMethod\DoubleMethod\bin\Debug\netcoreapp3.1\DoubleMethod.exe
+C:\Users\jonah\source\repos\CSharp_Projects\DoubleMethod\DoubleMethod\bin\Debug\netcoreapp3.1\DoubleMethod.deps.json
+C:\Users\jonah\source\repos\CSharp_Projects\DoubleMethod\DoubleMethod\bin\Debug\netcoreapp3.1\DoubleMethod.runtimeconfig.json
+C:\Users\jonah\source\repos\CSharp_Projects\DoubleMethod\DoubleMethod\bin\Debug\netcoreapp3.1\DoubleMethod.runtimeconfig.dev.json
+C:\Users\jonah\source\repos\CSharp_Projects\DoubleMethod\DoubleMethod\bin\Debug\netcoreapp3.1\DoubleMethod.dll
+C:\Users\jonah\source\repos\CSharp_Projects\DoubleMethod\DoubleMethod\bin\Debug\netcoreapp3.1\DoubleMethod.pdb
+C:\Users\jonah\source\repos\CSharp_Projects\DoubleMethod\DoubleMethod\obj\Debug\netcoreapp3.1\DoubleMethod.csproj.AssemblyReference.cache
+C:\Users\jonah\source\repos\CSharp_Projects\DoubleMethod\DoubleMethod\obj\Debug\netcoreapp3.1\DoubleMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonah\source\repos\CSharp_Projects\DoubleMethod\DoubleMethod\obj\Debug\netcoreapp3.1\DoubleMethod.AssemblyInfoInputs.cache
+C:\Users\jonah\source\repos\CSharp_Projects\DoubleMethod\DoubleMethod\obj\Debug\netcoreapp3.1\DoubleMethod.AssemblyInfo.cs
+C:\Users\jonah\source\repos\CSharp_Projects\DoubleMethod\DoubleMethod\obj\Debug\netcoreapp3.1\DoubleMethod.csproj.CoreCompileInputs.cache
+C:\Users\jonah\source\repos\CSharp_Projects\DoubleMethod\DoubleMethod\obj\Debug\netcoreapp3.1\DoubleMethod.dll
+C:\Users\jonah\source\repos\CSharp_Projects\DoubleMethod\DoubleMethod\obj\Debug\netcoreapp3.1\DoubleMethod.pdb
+C:\Users\jonah\source\repos\CSharp_Projects\DoubleMethod\DoubleMethod\obj\Debug\netcoreapp3.1\DoubleMethod.genruntimeconfig.cache
