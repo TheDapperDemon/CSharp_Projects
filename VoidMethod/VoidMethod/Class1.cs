@@ -6,11 +6,27 @@ namespace VoidMethod
 {
     class Class1
     {
-     
-public int Method1(int answer1, int answer2 = 18)
-{
-    int Operation = answer1 + answer2;
-    return Operation;
-}
-    }
+
+        public void VoidMethod(int A)
+        {
+            int Operation = A / 2;
+            Console.WriteLine("your number divided by 2 is " + Operation);
+        }
+        public string MethodOutput(string A, out int B)
+        {
+            B = A.Length;
+            string phrase = "The Length of your string is" + B;
+            return phrase;
+        }
+        public int MethodOutput(int C)
+        {
+            int Orange = C * 5;
+            return Orange;
+        }
+        public static int Method(int B)
+        {
+            int final = B + 5;
+            return final;
+        }
+     }
 }

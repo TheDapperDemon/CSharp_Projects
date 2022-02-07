@@ -1,0 +1,14 @@
+C:\Users\jonah\source\repos\CSharp_Projects\VoidMethod\VoidMethod\bin\Debug\netcoreapp3.1\VoidMethod.exe
+C:\Users\jonah\source\repos\CSharp_Projects\VoidMethod\VoidMethod\bin\Debug\netcoreapp3.1\VoidMethod.deps.json
+C:\Users\jonah\source\repos\CSharp_Projects\VoidMethod\VoidMethod\bin\Debug\netcoreapp3.1\VoidMethod.runtimeconfig.json
+C:\Users\jonah\source\repos\CSharp_Projects\VoidMethod\VoidMethod\bin\Debug\netcoreapp3.1\VoidMethod.runtimeconfig.dev.json
+C:\Users\jonah\source\repos\CSharp_Projects\VoidMethod\VoidMethod\bin\Debug\netcoreapp3.1\VoidMethod.dll
+C:\Users\jonah\source\repos\CSharp_Projects\VoidMethod\VoidMethod\bin\Debug\netcoreapp3.1\VoidMethod.pdb
+C:\Users\jonah\source\repos\CSharp_Projects\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.csproj.AssemblyReference.cache
+C:\Users\jonah\source\repos\CSharp_Projects\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonah\source\repos\CSharp_Projects\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.AssemblyInfoInputs.cache
+C:\Users\jonah\source\repos\CSharp_Projects\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.AssemblyInfo.cs
+C:\Users\jonah\source\repos\CSharp_Projects\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.csproj.CoreCompileInputs.cache
+C:\Users\jonah\source\repos\CSharp_Projects\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.dll
+C:\Users\jonah\source\repos\CSharp_Projects\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.pdb
+C:\Users\jonah\source\repos\CSharp_Projects\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.genruntimeconfig.cache
