@@ -15,7 +15,7 @@ namespace VoidMethod
         public string MethodOutput(string A, out int B)
         {
             B = A.Length;
-            string phrase = "The Length of your string is" + B;
+            string phrase = "The number of letters in your name is " + B;
             return phrase;
         }
         public int MethodOutput(int C)

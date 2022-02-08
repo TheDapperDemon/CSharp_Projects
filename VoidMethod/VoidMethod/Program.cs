@@ -38,6 +38,7 @@ namespace VoidMethod
             string answer1 = Console.ReadLine();
             string Operation2 = Grape.MethodOutput(answer1, out int B);
             Console.WriteLine(Operation2);
+           
 
             Console.WriteLine("Please enter a number");
             int answer2 = Convert.ToInt32(Console.ReadLine());
