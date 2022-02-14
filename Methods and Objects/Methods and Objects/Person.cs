@@ -6,8 +6,8 @@ namespace Methods_and_Objects
 {
     public class Person
     {
-        new List<string> FirstName;
-        new List<string> LastName;
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
     }
     static void MethodSayName()
     {
