@@ -6,7 +6,13 @@ namespace Methods_and_Objects
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Employee Jonah = new Employee()
+            {
+                FirstName = "Sample",
+                LastName = "Student"
+            };
+            Jonah.SayName();
+            Console.ReadLine();
         }
     }
 }

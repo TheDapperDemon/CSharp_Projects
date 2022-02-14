@@ -6,9 +6,6 @@ namespace Methods_and_Objects
 {
     public class Employee : Person
     {
-        List<int> id = new List<int>()
-        {
-            123, 456, 789, 000
-        };
+        public int id { get; set; }
     }
 }
