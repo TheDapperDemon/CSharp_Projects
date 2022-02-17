@@ -13,6 +13,11 @@ namespace Polymorphism_InC_Sharp
             };
             Jonah.SayName();
             Console.ReadLine();
-            }
+            IQuittable Terminated = new Employee();
+            Terminated.Quit("Jonah");
         }
+        
+    
+
+    }
 }

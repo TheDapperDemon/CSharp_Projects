@@ -6,6 +6,7 @@ namespace Polymorphism_InC_Sharp
 {
     interface IQuittable
     {
-        void IQuittable(Employee Jonah);
+        public void Quit(string name);
+        
     }
 }
