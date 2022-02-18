@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Polymorphism_InC_Sharp
+namespace GenericParameters
 {
     class Program
     {
@@ -11,14 +11,10 @@ namespace Polymorphism_InC_Sharp
                 FirstName = "Sample",
                 LastName = "Student"
             };
-            Jonah.SayName();
             Console.ReadLine();
-            IQuittable Terminated = new Employee();
-            Terminated.Quit("Jonah");
         }
 
         //Player<Card> player = new Player<Card>();
         //player.Hand = new List<Card>();
-
     }
 }
