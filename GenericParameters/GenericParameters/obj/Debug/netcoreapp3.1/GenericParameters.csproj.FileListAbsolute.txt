@@ -1,0 +1,14 @@
+C:\Users\jonah\source\repos\CSharp_Projects\GenericParameters\GenericParameters\bin\Debug\netcoreapp3.1\GenericParameters.exe
+C:\Users\jonah\source\repos\CSharp_Projects\GenericParameters\GenericParameters\bin\Debug\netcoreapp3.1\GenericParameters.deps.json
+C:\Users\jonah\source\repos\CSharp_Projects\GenericParameters\GenericParameters\bin\Debug\netcoreapp3.1\GenericParameters.runtimeconfig.json
+C:\Users\jonah\source\repos\CSharp_Projects\GenericParameters\GenericParameters\bin\Debug\netcoreapp3.1\GenericParameters.runtimeconfig.dev.json
+C:\Users\jonah\source\repos\CSharp_Projects\GenericParameters\GenericParameters\bin\Debug\netcoreapp3.1\GenericParameters.dll
+C:\Users\jonah\source\repos\CSharp_Projects\GenericParameters\GenericParameters\bin\Debug\netcoreapp3.1\GenericParameters.pdb
+C:\Users\jonah\source\repos\CSharp_Projects\GenericParameters\GenericParameters\obj\Debug\netcoreapp3.1\GenericParameters.csproj.AssemblyReference.cache
+C:\Users\jonah\source\repos\CSharp_Projects\GenericParameters\GenericParameters\obj\Debug\netcoreapp3.1\GenericParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonah\source\repos\CSharp_Projects\GenericParameters\GenericParameters\obj\Debug\netcoreapp3.1\GenericParameters.AssemblyInfoInputs.cache
+C:\Users\jonah\source\repos\CSharp_Projects\GenericParameters\GenericParameters\obj\Debug\netcoreapp3.1\GenericParameters.AssemblyInfo.cs
+C:\Users\jonah\source\repos\CSharp_Projects\GenericParameters\GenericParameters\obj\Debug\netcoreapp3.1\GenericParameters.csproj.CoreCompileInputs.cache
+C:\Users\jonah\source\repos\CSharp_Projects\GenericParameters\GenericParameters\obj\Debug\netcoreapp3.1\GenericParameters.dll
+C:\Users\jonah\source\repos\CSharp_Projects\GenericParameters\GenericParameters\obj\Debug\netcoreapp3.1\GenericParameters.pdb
+C:\Users\jonah\source\repos\CSharp_Projects\GenericParameters\GenericParameters\obj\Debug\netcoreapp3.1\GenericParameters.genruntimeconfig.cache

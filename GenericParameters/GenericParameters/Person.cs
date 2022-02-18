@@ -4,7 +4,9 @@ using System.Text;
 
 namespace GenericParameters
 {
-    class Person
+    public class Person 
     {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
     }
 }

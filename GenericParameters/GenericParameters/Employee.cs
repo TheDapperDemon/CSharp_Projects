@@ -4,13 +4,10 @@ using System.Text;
 
 namespace GenericParameters
 {
-    public class Employee : Person
+    public class Employee<T> : Person
     {
-        public int id { get; set; }
-        public override void SayName()
-        {
-            Console.WriteLine("Name: " + FirstName + " " + LastName);
-        }
+        public new List<T> FirstName{ get; set; }
+        public new List<T> LastName { get; set; }
 
         public void Quit(string name)
         {
