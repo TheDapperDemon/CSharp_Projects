@@ -1,0 +1,14 @@
+C:\Users\jonah\source\repos\CSharp_Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+C:\Users\jonah\source\repos\CSharp_Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+C:\Users\jonah\source\repos\CSharp_Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+C:\Users\jonah\source\repos\CSharp_Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+C:\Users\jonah\source\repos\CSharp_Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+C:\Users\jonah\source\repos\CSharp_Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\jonah\source\repos\CSharp_Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.AssemblyReference.cache
+C:\Users\jonah\source\repos\CSharp_Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonah\source\repos\CSharp_Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+C:\Users\jonah\source\repos\CSharp_Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+C:\Users\jonah\source\repos\CSharp_Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+C:\Users\jonah\source\repos\CSharp_Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+C:\Users\jonah\source\repos\CSharp_Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\jonah\source\repos\CSharp_Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache
