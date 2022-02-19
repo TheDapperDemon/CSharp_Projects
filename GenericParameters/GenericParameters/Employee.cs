@@ -6,12 +6,12 @@ namespace GenericParameters
 {
     public class Employee<T> : Person
     {
-        public new List<T> FirstName{ get; set; }
-        public new List<T> LastName { get; set; }
+        public List<T> Things { get; set; }
+         
 
-        public void Quit(string name)
-        {
-            Console.WriteLine(name + " I Quit");
-        }
+        //public void Quit(string name)
+        //{
+        //    Console.WriteLine(name + " I Quit");
+        //}
     }
 }

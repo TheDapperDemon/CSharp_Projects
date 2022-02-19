@@ -6,17 +6,14 @@ namespace GenericParameters
     {
         static void Main(string[] args)
         {
-            Employee<Person> FirstName = new Employee<Person>()
+            Employee<string> employee = new Employee<string>
             {
-               
+                Things = new List<string>()
             };
-            Employee<Person> LastName = new Employee<Person>()
-            {
-
-            };
-            Console.ReadLine();
+            employee.Things.Add("Jonah");
+            employee.Things.Add("Jeff");
+            employee.Things.Add("Hakon");
+            
         }
-
-        
     }
 }
