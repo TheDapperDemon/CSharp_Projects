@@ -6,7 +6,9 @@ namespace GenericParameters
 {
     public class Employee<T> : Person
     {
-        public List<T> Things { get; set; }
+         public List<T> Things { get; set; }
+         public string Name { get; set; }
+         public int ID { get; set; }
          
 
         //public void Quit(string name)

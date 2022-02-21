@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace GenericParameters
 {
@@ -6,14 +7,25 @@ namespace GenericParameters
     {
         static void Main(string[] args)
         {
-            Employee<string> employee = new Employee<string>
+            Employee<string> Name = new Employee<string>
             {
                 Things = new List<string>()
+
             };
-            employee.Things.Add("Jonah");
-            employee.Things.Add("Jeff");
-            employee.Things.Add("Hakon");
-            
+            Name.Things.Add("Jonah");
+            Name.Things.Add("Jeff");
+            Name.Things.Add("Hakon");
+            Console.ReadLine();
+
+            Employee<int> ID = new Employee<int>
+            {
+                Things = new List<int>()
+
+            };
+            ID.Things.Add(101);
+            ID.Things.Add(202);
+            ID.Things.Add(303);
+
         }
     }
 }
