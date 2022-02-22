@@ -4,18 +4,10 @@ using System.Text;
 
 namespace LamdaExpressions
 {
-    public class Employee 
+   public class Employee
     {
-        public struct Employees
-        {
-            public int empID;
-            public string firstName;
-            public string lastName;
-        };
-        public List<Employees> Joes = new List<Employees>
-        {
-            
-        };
-
+        public string firstName { get; set; }
+        public string lastName { get; set; }
+        public int empID { get; set; }
     }
 }
