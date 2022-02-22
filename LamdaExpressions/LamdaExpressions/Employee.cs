@@ -11,6 +11,11 @@ namespace LamdaExpressions
             public int empID;
             public string firstName;
             public string lastName;
-        }
+        };
+        public List<Employees> Joes = new List<Employees>
+        {
+            
+        };
+
     }
 }
