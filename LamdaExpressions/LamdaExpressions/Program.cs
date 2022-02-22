@@ -20,12 +20,12 @@ namespace LamdaExpressions
                 new Employee() { firstName = "Vlad", lastName = "Putt", empID = 90 },
                 new Employee() { firstName = "Tony", lastName = "DelVizo", empID = 101 },
             };
-        };
 
-        List<Employee> JoeList = new List<Employee>();
+
+            List<Employee> JoeList = new List<Employee>();
             foreach (var employee in Employee)
             {
-                if(employee.firstName == "Joe")
+                if (employee.firstName == "Joe")
                 {
                     Employee employeeJoe = new Employee();
                     JoeList.Add(employee);
@@ -34,6 +34,6 @@ namespace LamdaExpressions
             List<Employee> lambdaJoeList = new List<Employee>();
             var Joes = Employees.Where(e => e.firstName == "Joe").ToList();
 
-      
+        }
     }
 }
