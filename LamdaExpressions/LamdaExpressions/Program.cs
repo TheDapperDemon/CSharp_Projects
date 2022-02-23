@@ -29,13 +29,15 @@ namespace LamdaExpressions
             {
                 if (employee.firstName == "Joe")
                 {
-                    Employee employeeJoe = new Employee();
                     JoeList.Add(employee);
                 }
             }
-            List<Employee> lambdaJoeList = new List<Employee>();
-            var Joes = Employees.Where(e => e.firstName == "Joe").ToList();
-            Joes.ForEach(X => Console.WriteLine(X));
+            List<Employee> lambdaJoeList = Employees.Where(e => e.firstName == "Joe").ToList();
+            
+            foreach(Employee employee in lambdaJoeList)
+            {
+                Console.WriteLine(employee.firstName = " 2nd list");
+            }
 
         }
     }
