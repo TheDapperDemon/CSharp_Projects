@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace LamdaExpressions
 {
@@ -23,7 +25,7 @@ namespace LamdaExpressions
 
 
             List<Employee> JoeList = new List<Employee>();
-            foreach (var employee in Employee)
+            foreach (var employee in Employees)
             {
                 if (employee.firstName == "Joe")
                 {
@@ -33,6 +35,7 @@ namespace LamdaExpressions
             }
             List<Employee> lambdaJoeList = new List<Employee>();
             var Joes = Employees.Where(e => e.firstName == "Joe").ToList();
+            Joes.ForEach(X => Console.WriteLine(X));
 
         }
     }
